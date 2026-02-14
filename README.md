@@ -20,7 +20,8 @@ This project predicts **white wine quality** from **11 physicochemical lab measu
 
 ## **Full write-up**
 📓 Project notebook: `wine_quality_ols_lasso_rf_detailed.ipynb`  
-📝 Medium article: https://medium.com/@nahid.nm57/wine-quality-prediction-3d1c6f3b961a
+📝 Medium article: https://medium.com/@nahid.nm57/wine-quality-prediction-3d1c6f3b961a  
+
 At the end of the Medium article, I link back to this repo for full reproducibility.
 
 
