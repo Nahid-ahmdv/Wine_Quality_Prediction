@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# Python environments and caches
+handson_env/
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Model artifacts (large serialized files)
+Classification_Models_Projects/MNIST/*.joblib
+Regression_Models_Projects/**/models/*.joblib
+*.pkl
+*.sav
+
+# Temporary / output files
+*.log
+*.tmp
+*.npy
+*.npz
+*.json
+*.joblib
+# Ignore any directory named "datasets" at any depth
+wine_quality_medium.ipynb
+Data/
+
+
+# Optional: ignore all future refinement notes globally
+*further_refinements.txt
