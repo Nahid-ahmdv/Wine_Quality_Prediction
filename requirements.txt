@@ -1,0 +1,13 @@
+# importlib  # not installed or standard library
+# inspect  # not installed or standard library
+matplotlib==3.10.5
+nbformat==5.10.4
+numpy==2.2.6
+pandas==2.3.3
+# pathlib  # not installed or standard library
+# re  # not installed or standard library
+seaborn==0.13.2
+shap==0.49.1
+scikit-learn==1.7.2
+# time  # not installed or standard library
+# warnings  # not installed or standard library
